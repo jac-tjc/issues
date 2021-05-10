@@ -1,0 +1,13 @@
+skipCreatedBefore: false
+
+exemptLabels: []
+
+comment: false
+
+label: false
+
+close: true
+
+# Lock issues and pull requests
+lock: true
+only: pulls
