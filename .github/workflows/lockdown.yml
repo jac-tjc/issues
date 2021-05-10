@@ -15,4 +15,4 @@ jobs:
       - uses: dessant/repo-lockdown@v2
         with:
           github-token: ${{ github.token }}
-              lock-issue: false
+          lock-issue: false
